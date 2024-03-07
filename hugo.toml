@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Andy Clifton"
       introSubtitle = "Ik ben 41 jaar oud en Cloud Engineer bij Detron IT Consultants, Microsoft Certified Trainer,en schrijf ik deze blogs en maak ik de podcast Azure Adventurer"
-      introPhoto = "/Andy.jpg"
+      introPhoto = "img/Andy.jpg"
       logo = "/download.png"
     [[languages.en.menu.main]]
         name = "Blogs"
