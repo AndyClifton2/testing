@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://github.com/AndyClifton2/testing"
 metaDataFormat = "yaml"
 title = "Andy Cliftons Blog"
 theme = "blist"
