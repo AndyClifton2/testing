@@ -2,26 +2,9 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://github.com/AndyClifton2/testing/en/sitemap.xml</loc>
+    <loc>/sitemap.xml</loc>
     
       <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://github.com/AndyClifton2/testing/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://github.com/AndyClifton2/testing/de/sitemap.xml</loc>
-    
-      <lastmod>2021-10-14T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://github.com/AndyClifton2/testing/dy/sitemap.xml</loc>
     
   </sitemap>
   
