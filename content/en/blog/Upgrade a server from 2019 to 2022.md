@@ -11,10 +11,7 @@ thumbnail: "/img/server2022.png"
 
 
  
-# Inplace Upgrade een Server van 2019 naar 2022
-
-
-## Voorwoord
+# Voorwoord
 
 De vraag die ik regelmatig krijg is  hoe kan ik nu een Windows Server upgrade naar de nieuwste versie van windows nu ik geen iso kan mounten.
 Microsoft heeft hier over nagedacht en heeft de mogelijkheid gecreerd om een inplace upgrade uit te voeren op de machine zelf.
