@@ -12,7 +12,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Hey! I'm Andy Clifton"
-      introSubtitle = "Ik ben 41 jaar oud en Cloud Engineer bij Detron IT Consultants, Microsoft Certified Trainer,en schrijf ik deze blogs en maak ik de podcast Azure Adventurer"
+      introSubtitle = "Ik ben 41 jaar oud en Cloud Engineer bij Detron IT Consultants, Microsoft Certified Trainer, en schrijf ik deze blogs.Ook maak ik de podcast Azure Adventurer"
       introPhoto = "/Andy.jpg"
       logo = "/download.png"
     [[languages.en.menu.main]]
@@ -100,7 +100,7 @@ DefaultContentLanguageInSubdir = true
 
 [params.homepage.social]
   # Global params common for both languages
-  title = "Wil je me volgen op Linkedin,github of Youtube?"
+  title = "Wil je me volgen op Linkedin, Github of Youtube?"
   description = ""
 
    [[params.homepage.social.icons]]
