@@ -24,12 +24,6 @@ DefaultContentLanguageInSubdir = true
         name = "Over Mij"
         url = "page/about/"
         weight = 2
-
-    [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
-
   
 [params]
   # Enable the darkmode toggle in header
