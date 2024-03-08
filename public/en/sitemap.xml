@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/en/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/tags/azureb2b/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/blog/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/blog/eenmalige-authenticatie-voor-guest-users/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/tags/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/tags/arc/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/blog/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/en/blog/configure-azure-arc-in-een-test-omgeving/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/tags/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/tags/emoji/</loc>
@@ -25,9 +31,6 @@
   </url><url>
     <loc>/en/blog/passwordprotection/</loc>
     <lastmod>2023-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/tags/azureb2b/</loc>
-    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/blog/disk-encryptie-in-azure-vms/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
@@ -45,7 +48,5 @@
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/categories/</loc>
-  </url><url>
-    <loc>/en/blog/eenmalige-authenticatie-voor-guest-users/</loc>
   </url>
 </urlset>

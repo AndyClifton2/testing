@@ -6,8 +6,15 @@
     <description>Recent content in Tags on Andy Cliftons Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AzureB2B</title>
+      <link>/en/tags/azureb2b/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/en/tags/azureb2b/</guid>
+      <description></description>
+    </item>
     <item>
       <title>ARC</title>
       <link>/en/tags/arc/</link>
@@ -20,13 +27,6 @@
       <link>/en/tags/emoji/</link>
       <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       <guid>/en/tags/emoji/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AzureB2B</title>
-      <link>/en/tags/azureb2b/</link>
-      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/en/tags/azureb2b/</guid>
       <description></description>
     </item>
     <item>

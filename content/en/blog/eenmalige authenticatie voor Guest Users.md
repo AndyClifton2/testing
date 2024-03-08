@@ -2,7 +2,7 @@
 Author: "Andy Clifton"
 title: "Eenmalige toegangscode voor Azure AD B2B-Guest Users"
 description: "Eenmalige toegangscode voor Azure AD B2B-Guest Users"
-date: 2024-003
+date: 2024-03-01
 tags: ["AzureB2B"]
 thumbnail: "/img/B2b.png"
 ---

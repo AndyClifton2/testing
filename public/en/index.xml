@@ -6,8 +6,15 @@
     <description>Recent content on Andy Cliftons Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eenmalige toegangscode voor Azure AD B2B-Guest Users</title>
+      <link>/en/blog/eenmalige-authenticatie-voor-guest-users/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/en/blog/eenmalige-authenticatie-voor-guest-users/</guid>
+      <description>Eenmalige toegangscode voor Azure AD B2B-Guest Users ==&amp;gt; Disclaimer work in progress &amp;lt;== Voorwoord AzureAD B2B staat externe gebruikers toe om toepassingen, services en gegevens van de Tenant te gebruiken. Om gasten toegang toe te staan moeten ze een AzureAD account, Microsoft account of een Google Federation hebben. (Voor @gmail.com en @googlemail.com gebruikers). Mocht een user nu geen van deze accounts hebben dan kan er toch connectie gemaakt worden met een eenmalige toegangscode.</description>
+    </item>
     <item>
       <title>Configure Azure ARC in een test omgeving</title>
       <link>/en/blog/configure-azure-arc-in-een-test-omgeving/</link>
@@ -49,13 +56,6 @@
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       <guid>/en/page/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0.&#xD;Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark&#xD;https://github.</description>
-    </item>
-    <item>
-      <title>Eenmalige toegangscode voor Azure AD B2B-Guest Users</title>
-      <link>/en/blog/eenmalige-authenticatie-voor-guest-users/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/blog/eenmalige-authenticatie-voor-guest-users/</guid>
-      <description>Eenmalige toegangscode voor Azure AD B2B-Guest Users ==&amp;gt; Disclaimer work in progress &amp;lt;== Voorwoord AzureAD B2B staat externe gebruikers toe om toepassingen, services en gegevens van de Tenant te gebruiken. Om gasten toegang toe te staan moeten ze een AzureAD account, Microsoft account of een Google Federation hebben. (Voor @gmail.com en @googlemail.com gebruikers). Mocht een user nu geen van deze accounts hebben dan kan er toch connectie gemaakt worden met een eenmalige toegangscode.</description>
     </item>
   </channel>
 </rss>

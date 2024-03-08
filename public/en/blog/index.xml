@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Andy Cliftons Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eenmalige toegangscode voor Azure AD B2B-Guest Users</title>
+      <link>/en/blog/eenmalige-authenticatie-voor-guest-users/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/en/blog/eenmalige-authenticatie-voor-guest-users/</guid>
+      <description>Eenmalige toegangscode voor Azure AD B2B-Guest Users ==&amp;gt; Disclaimer work in progress &amp;lt;== Voorwoord AzureAD B2B staat externe gebruikers toe om toepassingen, services en gegevens van de Tenant te gebruiken. Om gasten toegang toe te staan moeten ze een AzureAD account, Microsoft account of een Google Federation hebben. (Voor @gmail.com en @googlemail.com gebruikers). Mocht een user nu geen van deze accounts hebben dan kan er toch connectie gemaakt worden met een eenmalige toegangscode.</description>
+    </item>
     <item>
       <title>Configure Azure ARC in een test omgeving</title>
       <link>/en/blog/configure-azure-arc-in-een-test-omgeving/</link>
@@ -42,13 +49,6 @@
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/en/blog/disaster-recovery/</guid>
       <description>Disaster Recovery ==&amp;gt; Disclaimer work in progress. &amp;lt;== Voorwoord Als je een virtuele machine hebt draaien in Azure en je wilt er voor zorgen dat je machines zoveel mogelijk beschermd zijn tegen downtime, dan zijn er meerdere dingen die je wilt bekijken in de termen van availability. Je moet zorgen dat je over de benodigde uptime beschikt in de regio waar de vm’s worden uitgevoerd. Hiervoor kun je denken aan verschillende storage opties zoals Premium Storage die voor 1 disk een SLA biedt van 99,9%.</description>
-    </item>
-    <item>
-      <title>Eenmalige toegangscode voor Azure AD B2B-Guest Users</title>
-      <link>/en/blog/eenmalige-authenticatie-voor-guest-users/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/blog/eenmalige-authenticatie-voor-guest-users/</guid>
-      <description>Eenmalige toegangscode voor Azure AD B2B-Guest Users ==&amp;gt; Disclaimer work in progress &amp;lt;== Voorwoord AzureAD B2B staat externe gebruikers toe om toepassingen, services en gegevens van de Tenant te gebruiken. Om gasten toegang toe te staan moeten ze een AzureAD account, Microsoft account of een Google Federation hebben. (Voor @gmail.com en @googlemail.com gebruikers). Mocht een user nu geen van deze accounts hebben dan kan er toch connectie gemaakt worden met een eenmalige toegangscode.</description>
     </item>
   </channel>
 </rss>
