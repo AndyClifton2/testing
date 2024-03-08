@@ -35,7 +35,7 @@ We gaan nu via de portal een nieuwe machine bouwen die voldoet aan de eisen om H
 Ga naar http://portal.azure.com en log in met de credentials om een machine te kunnen bouwen.
 
 Ga naar **Create a Resources.**
-![alt](/images/AzureArc/Resource.JPG)
+![alt](/Images/AzureArc/Resource.JPG)
 
 
 
