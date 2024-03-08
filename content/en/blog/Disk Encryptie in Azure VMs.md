@@ -1,13 +1,11 @@
 ---
 Author: "Andy Clifton"
 title: "Disk Encryptie in Azure VMs"
-date: 2023-02-16T11:11:11+01:00
+description: "Disk Encryptie in Azure VMs."
+date: 2023-02-16
 tags: ["AzureB2B"]
-type: "post"
-draft: false
 thumbnail: "/img/DiskEncryption.png"
 ---
-
 
 # Disk Encryptie in Azure VMs
 

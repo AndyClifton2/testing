@@ -6,28 +6,21 @@
     <description>Recent content in Emoji on Andy Cliftons Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Aug 2023 11:11:11 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/en/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Run Powershell Script met Hybrid Worker Groups</title>
       <link>/en/blog/run-powershell-script-with-hybrid-worker/</link>
-      <pubDate>Sat, 12 Aug 2023 11:11:11 +0100</pubDate>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       <guid>/en/blog/run-powershell-script-with-hybrid-worker/</guid>
       <description>Run Powershell Script met Hybrid Worker Groups ==&amp;gt; Disclaimer work in progress. &amp;lt;== Voorwoord Als je de on-premises omgeving wilt automatiseren, is Azure Arc Server een geweldige aanbieding voor het onboarden van Azure-beheerservices zoals Azure Monitor, Sentinel, maar ook Defender en IAM. Een van de andere voordelen die we nog hebben is het gebruik van Hybrid Workers. Hierdoor kun je Runbooks, Logic Apps of Power Automate gebruiken om het beheer of deploy van dingen op je on-premise vm mogelijk te maken.</description>
     </item>
     <item>
       <title>Password Protection</title>
       <link>/en/blog/passwordprotection/</link>
-      <pubDate>Tue, 18 Apr 2023 11:11:11 +0100</pubDate>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
       <guid>/en/blog/passwordprotection/</guid>
       <description>Password Protection ==&amp;gt; Disclaimer work in progress &amp;lt;== Voorwoord Complexe wachtwoorden zijn basis requirements om je systeem te beschermen tegen een cyberaanval. Zelfs vandaag de dag kunnen de meeste cyber-attacks voorkomen worden als users een meer complex en vooral niet te raden wachtwoord zouden gebruiken. Cyber-attackers proberen altijd eerst het low hanging fruit. Dus met een password protection policy kun je het ze in ieder geval al een stuk moeilijker maken.</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>/en/blog/emoji-support/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/en/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,10 +2,8 @@
 Author: "Andy Clifton"
 title: "Password Protection"
 description: "Password Protection"
-date: 2023-04-18T11:11:11+01:00
+date: 2023-04-18
 tags: ["emoji"]
-type: "post"
-draft: false
 thumbnail: "/img/hugo.jpg"
 ---
 

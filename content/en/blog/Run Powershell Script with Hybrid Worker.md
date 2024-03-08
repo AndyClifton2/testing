@@ -1,10 +1,8 @@
 ---
 Author: "Andy Clifton"
 title: "Run Powershell Script met Hybrid Worker Groups"
-date: 2023-08-12T11:11:11+01:00
+date: 2023-08-12
 tags: ["emoji"]
-type: "post"
-draft: false
 thumbnail: "/img/HRW.png"
 ---
 

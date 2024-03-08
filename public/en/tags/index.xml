@@ -6,76 +6,34 @@
     <description>Recent content in Tags on Andy Cliftons Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jan 2024 11:11:11 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ARC</title>
       <link>/en/tags/arc/</link>
-      <pubDate>Wed, 03 Jan 2024 11:11:11 +0100</pubDate>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/en/tags/arc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AzureB2B</title>
-      <link>/en/tags/azureb2b/</link>
-      <pubDate>Wed, 03 Jan 2024 11:11:11 +0100</pubDate>
-      <guid>/en/tags/azureb2b/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
       <link>/en/tags/emoji/</link>
-      <pubDate>Sat, 12 Aug 2023 11:11:11 +0100</pubDate>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       <guid>/en/tags/emoji/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AzureB2B</title>
+      <link>/en/tags/azureb2b/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/en/tags/azureb2b/</guid>
       <description></description>
     </item>
     <item>
       <title>Disater,Recovery</title>
       <link>/en/tags/disaterrecovery/</link>
-      <pubDate>Mon, 16 Jan 2023 11:11:11 +0100</pubDate>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/en/tags/disaterrecovery/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Css</title>
-      <link>/en/tags/css/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/en/tags/css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Html</title>
-      <link>/en/tags/html/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/en/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown</title>
-      <link>/en/tags/markdown/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/en/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>/en/tags/privacy/</link>
-      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/en/tags/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcodes</title>
-      <link>/en/tags/shortcodes/</link>
-      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/en/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Text</title>
-      <link>/en/tags/text/</link>
-      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/en/tags/text/</guid>
       <description></description>
     </item>
   </channel>

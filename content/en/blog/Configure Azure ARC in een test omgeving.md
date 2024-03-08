@@ -1,12 +1,12 @@
 ---
 Author: "Andy Clifton"
 title: "Configure Azure ARC in een test omgeving"
-date: 2024-01-03T11:11:11+01:00
+description: "Test omgeving Azure Arc."
+date: 2024-01-03
 tags: ["ARC"]
-type: "post"
-draft: false
 thumbnail: "/img/arc.jpeg"
 ---
+
 
 
 

@@ -1,12 +1,12 @@
 ---
 Author: "Andy Clifton"
 title: "Disaster Recovery"
-date: 2023-01-16T11:11:11+01:00
+date: 2023-01-16
+description: "Disaster Recovery."
 tags: ["Disater,Recovery"]
-type: "post"
-draft: false
 thumbnail: "/img/Disasterrecovery.jpeg"
 ---
+
 
 # Disaster Recovery
 
