@@ -10,19 +10,19 @@ thumbnail: "/img/server2022.png"
 
 
 
- 
+
 # Voorwoord
 
-De vraag die ik regelmatig krijg is  hoe kan ik nu een Windows Server upgrade naar de nieuwste versie van windows nu ik geen iso kan mounten.
-Microsoft heeft hier over nagedacht en heeft de mogelijkheid gecreerd om een inplace upgrade uit te voeren op de machine zelf.
-Hieronder leg ik verder uit hoe je deze stappen het beste kan doen..
+De vraag die ik regelmatig krijg is: Hoe kan ik nu een Windows Server upgrade naar de nieuwste versie van windows nu ik geen iso kan mounten.
+Microsoft heeft hier over nagedacht en heeft de mogelijkheid gecreëerd om een inplace upgrade uit te voeren op de machine zelf.
+Hieronder leg ik verder uit hoe je deze stappen het beste kunt doen..
 
 
 
-## Creer een Managed Disk met de Iso hierin.
+## Creëer een Managed Disk met de Iso hierin.
 
 Het crëeren van deze disk kan alleen via Powershell.
-Daarop open ISE en creer onderstaande Powershell script
+Daarop open ISE en creëer onderstaande Powershell script
 
 Eerst loggen we in bij Azure met:
 {{< highlight html >}}
@@ -117,7 +117,7 @@ Hierna zul je zien dat de disk is aangemaakt in de Resource Group.
 
 ![Image](/Images/InplaceUpgrade/Disk.JPG)
 
-ga nu naar de bestaande VM en ga naar disks:
+Ga naar de bestaande VM en ga naar disks:
 
 ![Image](/Images/InplaceUpgrade/Disk1.JPG)
 
@@ -125,7 +125,7 @@ Daarna klikken we op Attach een disk en selecteren de aangemaakte disk.
 
 ![Image](/Images/InplaceUpgrade/Attach.JPG)
 
-Klik daarna op Apply en wacht tot de VM geupdate is.
+Klik daarna op Apply en wacht tot de VM geüpdatet is.
 
 ![Image](/Images/InplaceUpgrade/Apply.JPG)
 
