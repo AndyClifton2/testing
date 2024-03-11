@@ -178,18 +178,19 @@
         
         <ul>
             <li>
-        <a href="#creer-een-managed-disk-met-de-iso-hierin">Creer een Managed Disk met de Iso hierin.</a>
+        <a href="#cre%c3%aber-een-managed-disk-met-de-iso-hierin">Creëer een Managed Disk met de Iso hierin.</a>
         </li></ul>
     </li></ul>
   </details>
 
-    <h1 id="voorwoord">Voorwoord</h1>
-<p>De vraag die ik regelmatig krijg is  hoe kan ik nu een Windows Server upgrade naar de nieuwste versie van windows nu ik geen iso kan mounten.
-Microsoft heeft hier over nagedacht en heeft de mogelijkheid gecreerd om een inplace upgrade uit te voeren op de machine zelf.
-Hieronder leg ik verder uit hoe je deze stappen het beste kan doen..</p>
-<h2 id="creer-een-managed-disk-met-de-iso-hierin">Creer een Managed Disk met de Iso hierin.</h2>
+    <p>Hulp</p>
+<h1 id="voorwoord">Voorwoord</h1>
+<p>De vraag die ik regelmatig krijg is: Hoe kan ik nu een Windows Server upgrade naar de nieuwste versie van windows nu ik geen iso kan mounten.
+Microsoft heeft hier over nagedacht en heeft de mogelijkheid gecreëerd om een inplace upgrade uit te voeren op de machine zelf.
+Hieronder leg ik verder uit hoe je deze stappen het beste kunt doen.</p>
+<h2 id="creëer-een-managed-disk-met-de-iso-hierin">Creëer een Managed Disk met de Iso hierin.</h2>
 <p>Het crëeren van deze disk kan alleen via Powershell.
-Daarop open ISE en creer onderstaande Powershell script</p>
+Daarop open ISE en creëer onderstaande Powershell script</p>
 <p>Eerst loggen we in bij Azure met:
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>Connect-azaccount</span></span></code></pre></div>
 <img alt="Image" src="/Images/InplaceUpgrade/connect.JPG"></p>
@@ -249,11 +250,11 @@ Daarop open ISE en creer onderstaande Powershell script</p>
 
 <p>Hierna zul je zien dat de disk is aangemaakt in de Resource Group.</p>
 <p><img alt="Image" src="/Images/InplaceUpgrade/Disk.JPG"></p>
-<p>ga nu naar de bestaande VM en ga naar disks:</p>
+<p>Ga naar de bestaande VM en ga naar disks:</p>
 <p><img alt="Image" src="/Images/InplaceUpgrade/Disk1.JPG"></p>
 <p>Daarna klikken we op Attach een disk en selecteren de aangemaakte disk.</p>
 <p><img alt="Image" src="/Images/InplaceUpgrade/Attach.JPG"></p>
-<p>Klik daarna op Apply en wacht tot de VM geupdate is.</p>
+<p>Klik daarna op Apply en wacht tot de VM geüpdatet is.</p>
 <p><img alt="Image" src="/Images/InplaceUpgrade/Apply.JPG"></p>
 <p>Ga naar Connect en login via RDP op deze machine.</p>
 <p><img alt="Image" src="/Images/InplaceUpgrade/RDP.JPG"></p>
