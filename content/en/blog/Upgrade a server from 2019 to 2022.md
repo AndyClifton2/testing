@@ -31,7 +31,7 @@ Connect-azaccount
 ![Image](/Images/InplaceUpgrade/connect.JPG)
 
 Login en voer MFA in als je dit hebt ingesteld, daarna ben je connected.
-![Image](/Images/InplaceUpgrade/connected.JPG)
+![Image](/Images/InplaceUpgrade/Connected.JPG)
 
 Daarna maken we connectie met de juiste tenant door aan te geven 
 {{< highlight html >}}
