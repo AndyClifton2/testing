@@ -18,7 +18,7 @@ Hieronder leg ik verder uit hoe je deze stappen het beste kunt doen.
 
 
 
-## Creëer een Managed Disk met de Iso hierin.
+### Creëer een Managed Disk met de Iso hierin.
 
 Het crëeren van deze disk kan alleen via Powershell.
 Daarop open ISE en creëer onderstaande Powershell script
