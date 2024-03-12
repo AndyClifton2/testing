@@ -12,7 +12,7 @@ thumbnail: "/img/server2022.png"
 
 ## Voorwoord
 
-De vraag die ik regelmatig krijg is: Hoe kan ik nu een Windows Server upgrade naar de nieuwste versie van windows nu ik geen iso kan mounten.
+De vraag die ik regelmatig krijg is: Hoe kan ik een Windows Server upgraden naar de nieuwste versie van Windows nu ik geen iso kan mounten?
 Microsoft heeft hier over nagedacht en heeft de mogelijkheid gecreëerd om een inplace upgrade uit te voeren op de machine zelf.
 Hieronder leg ik verder uit hoe je deze stappen het beste kunt doen.
 
@@ -21,7 +21,7 @@ Hieronder leg ik verder uit hoe je deze stappen het beste kunt doen.
 ### Creëer een Managed Disk met de Iso hierin.
 
 Het crëeren van deze disk kan alleen via Powershell.
-Daarop open ISE en creëer onderstaande Powershell script
+Daarop open ISE en creëer onderstaande Powershell script:
 
 Eerst loggen we in bij Azure met:
 {{< highlight html >}}
@@ -30,10 +30,10 @@ Connect-azaccount
 {{< /highlight >}}
 ![Image](/Images/InplaceUpgrade/connect.JPG)
 
-Login en voer MFA in als je dit hebt ingesteld, daarna ben je connected.
+Login en voer je MFA.(Als je dit hebt ingesteld) Daarna ben je connected.
 ![Image](/Images/InplaceUpgrade/Connected.JPG)
 
-Daarna maken we connectie met de juiste tenant door aan te geven 
+Daarna maken we connectie met de juiste tenant door aan te geven: 
 {{< highlight html >}}
 
 Set-azcontext -subscription **SubscriptionName**
@@ -42,7 +42,7 @@ Set-azcontext -subscription **SubscriptionName**
 
 ![Image](/Images/InplaceUpgrade/Context.JPG)
 
-Daarna kun je onderstaande script draaien en zal er een Managed Disk aangemaakt zijn in de aangemaakte Resource group (vergeet niet om alle info in te vullen)
+Daarna kun je onderstaand script draaien en zal er een Managed Disk aangemaakt zijn in de aangemaakte Resource group. (Vergeet niet om alle info in te vullen.)
 
 {{< highlight html >}}
 # Resource group of the source VM
@@ -132,7 +132,7 @@ Ga naar Connect en login via RDP op deze machine.
 
 ![Image](/Images/InplaceUpgrade/RDP.JPG)
 
-Als je bent ingelogd open je command prompt in Elevated mode, ga dan naar de nieuwe disk en open de folder 
+Als je bent ingelogd open je command prompt in Elevated mode, ga dan naar de nieuwe disk en open de folder:
 
 {{< highlight html >}}
 
@@ -154,8 +154,8 @@ Vervolgens word de prepare van de upgrade gestart.
 
 ![Image](/Images/InplaceUpgrade/Prepare.JPG)
 
-Als de prepare klaar is kun je een keuze maken welke versie je erop wilt zetten.Bepaal dit aan de hand van je licenties. (Kies wel de Desktop Expierence)
-En klik vervolgens op **Next**
+Als de prepare klaar is kun je een keuze maken welke versie je erop wilt zetten. Bepaal dit aan de hand van je licenties. (Kies wel de Desktop Expierence)
+En klik vervolgens op **Next**.
 
 ![Image](/Images/InplaceUpgrade/Keuze.JPG)
 
@@ -163,11 +163,11 @@ De installatie gaat starten.
 
 ![Image](/Images/InplaceUpgrade/Install1.JPG)
 
-Na een tijdje word het scherm blauw en zie je een percentage lopen
+Na een tijdje wordt het scherm blauw en zie je een percentage lopen.
  
 ![Image](/Images/InplaceUpgrade/Install2.JPG)
 
-Daarna zal de server een paar keer rebooten. en is vervolgens Windows geupgrade naar Windows 2022.
+Daarna zal de server een paar keer rebooten.Vervolgens is Windows geüpgraded naar Windows 2022.
 
 ![Image](/Images/InplaceUpgrade/2022.JPG)
 
